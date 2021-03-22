@@ -38,7 +38,7 @@ function NumberSelect() {
         console.log(item)        
         item = item - 1
         elementos[item].classList.add('itemRandom')
-        // 0 - 59 index do els=emento p vão de 0 a 59, por isso item recebe -1
+        // 0 - 59 index do elemento p vão de 0 a 59, por isso item recebe -1
 
     })
 
